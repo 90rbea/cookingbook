@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="stylesheet" href="style.css" />
+  
+    <title class="center">The Cookbook</title>
+  </head>
+  <body>
+    <header>
+      <h1>How to master cooking 101</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="homepage.html">Home</a></li>
+        <li><a href="recipe.html">Recipe</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Intro to Cooking for beginners</h2>
+      <p>
+        Here you can find delicious recipes to try out in your own kitchen.
+      </p>
+      <img
+        src="cooking.gif"
+        alt="food"
+        class="center"
+      />
+      <p>
+         At its most basic, cooking means applying heat to food. 
+          Whether the food is baked, fried, sautéed, boiled, or grilled, it's all cooking.
+         Evidence suggests our ancestors began cooking over an open fire over 2 million years ago. 
+         People still cook some foods over an open flame, in addition to using tools like microwaves, 
+         toasters, and stovetops. 
+       </p>
+        <p>
+        In scientific terms, cooking is transferring energy from a heat source to the food. 
+        It is as much about the ways ​heat changes the food as it is about the heat itself. 
+        That's because heating food does more than just make it hotter.
+      </p>
+    </main>
+    <footer>
+      <p>Copyright ©2023 The Cookbook</p>
+    </footer>
+  </body>
+</html>
