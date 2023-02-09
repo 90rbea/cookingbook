@@ -1,0 +1,46 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+header {
+  background-color: #6da7f9;
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  background-color: #ffad41;
+  text-align: center;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration-line: underline;
+  color: #0b0b0b;
+}
+
+main {
+  padding: 4rem;
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+}
+
+footer {
+  background-color: #f9a51a;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+}
