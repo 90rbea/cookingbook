@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Cookbook</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="homepage.html">Home</a></li>
+        <li><a href="recipe.html">Recipe</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Recipe Name</h2>
+      <img
+        src="food animated.gif"
+        alt="Food Image"
+      />
+      <h3>Step by step:</h3>
+      <ul>
+        <li>Step 1</li>
+        <li>Step 2</li>
+        <li>Step 3</li>
+      </ul>
+
+      <h3>Instructions:</h3>
+      <p class="center">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
+        Reprehenderit, accusantium ullam unde temporibus, debitis <br>
+        sapiente tempora beatae vel harum corporis modi, eveniet <br>
+        laboriosam aspernatur commodi quo vitae ipsa libero sunt!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br>
+        Perspiciatis sunt architecto placeat minima velit, hic sint, <br>
+        magnam sapiente libero, omnis voluptatum! Ratione asperiores <br>
+        animi rerum ex omnis facilis incidunt illum!
+      </p>
+    </main>
+    <footer>
+      <p>Copyright ©2023 The Cookbook</p>
+    </footer>
+  </body>
+</html>
